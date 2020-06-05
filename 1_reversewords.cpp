@@ -7,6 +7,7 @@ out: know to used I that somebody just youre now
 #include <bits/stdc++.h>
 using namespace std;
 
+// reverse string in place
 void rev(string& s, int l, int r){
     while(l<r){
         swap(s[l], s[r]);
