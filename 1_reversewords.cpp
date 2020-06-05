@@ -2,6 +2,8 @@
 REVERSE WORDS
 inp: now youre just somebody that I used to know
 out: know to used I that somebody just youre now
+
+this is not the in-place solution
 */
 
 #include <bits/stdc++.h>
